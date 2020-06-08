@@ -1,32 +1,20 @@
-## Welcome to GitHub Pages
+# Elissa Perocchio's HIST 3814 Static Website
 
-You can use the [editor on GitHub](https://github.com/Elissap5100/our-username.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a quick cover page for all my reflections over the last 6 weeks!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Journal Entry Links:
 
-### Markdown
+**Week 1** : https://github.com/Elissap5100/Week-One-Work/blob/master/journal.md
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Week 2** : https://github.com/Elissap5100/Week-Two-Work/blob/master/journal.md
 
-```markdown
-Syntax highlighted code block
+**Week 3** : https://github.com/Elissap5100/Week-Three-Work/blob/master/journal.md
 
-# Header 1
-## Header 2
-### Header 3
+**Week 4** : https://github.com/Elissap5100/Week-Four-Work/blob/master/journal.md
 
-- Bulleted
-- List
+**Week 5** : https://github.com/Elissap5100/Week-Five-Work/blob/master/journal.md
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
